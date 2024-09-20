@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Beginning my journey learning RUST
 ---
 
